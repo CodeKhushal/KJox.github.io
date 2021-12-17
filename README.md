@@ -1,5 +1,5 @@
 # KJox
-** Displays jokes when reload
+## Displays jokes when reload
 
 
-### API used <a> icanhazdadjoke.com/slack </a>
+### API used icanhazdadjoke.com/slack
